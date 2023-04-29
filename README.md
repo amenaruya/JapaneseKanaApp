@@ -13,7 +13,7 @@ https://glyphwiki.org/wiki/Group:zr12r_kaharinana
 cutra_AppendingToHanaMin
 https://glyphwiki.org/wiki/Group:cutra_AppendingToHanaMin
 
-いくつかのURLも含みます  
+いくつかのURLが含まれています  
 
 ## 作り変えます
 私はこのappを改良することを推奨しています
