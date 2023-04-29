@@ -5,10 +5,19 @@ https://amenaruya.github.io/JapaneseKanaApp/
 
 ## 注意してください
 ***
-これらはグリフウィキで生成されたフォントを含みます。  
-容量が大きいためアップロードしていませんがうごいていますか?  
+これらはグリフウィキで生成されたフォントを含みますが  
+容量が大きいためアップロードしていません  
+花園明朝
+https://ja.osdn.net/projects/hanazono-font/releases/
+
+zr12r_kaharinana
+https://glyphwiki.org/wiki/Group:zr12r_kaharinana
+
+cutra_AppendingToHanaMin
+https://glyphwiki.org/wiki/Group:cutra_AppendingToHanaMin
+
 いくつかのURLも含みます  
 
 ## 作り変えます
 ***
-私はこのappを改良することを推奨しています !
+私はこのappを改良することを推奨しています
