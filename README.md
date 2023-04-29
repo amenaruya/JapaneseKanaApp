@@ -1,7 +1,6 @@
 # JapaneseKanaApp
 ***
 日本の仮名のapp  
-https://amenaruya.github.io/JapaneseKanaApp/
 
 ## 注意してください
 ***
